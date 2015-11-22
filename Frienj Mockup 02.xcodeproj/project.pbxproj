@@ -1,0 +1,579 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		79EDD7A71C0046D6009ED91C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7A61C0046D6009ED91C /* AppDelegate.swift */; };
+		79EDD7A91C0046D6009ED91C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7A81C0046D6009ED91C /* ViewController.swift */; };
+		79EDD7AC1C0046D6009ED91C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7AA1C0046D6009ED91C /* Main.storyboard */; };
+		79EDD7AE1C0046D6009ED91C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7AD1C0046D6009ED91C /* Assets.xcassets */; };
+		79EDD7B11C0046D6009ED91C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7AF1C0046D6009ED91C /* LaunchScreen.storyboard */; };
+		79EDD7BC1C0046D7009ED91C /* Frienj_Mockup_02Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7BB1C0046D7009ED91C /* Frienj_Mockup_02Tests.swift */; };
+		79EDD7C71C0046D7009ED91C /* Frienj_Mockup_02UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7C61C0046D7009ED91C /* Frienj_Mockup_02UITests.swift */; };
+		79EDD7D91C0046E7009ED91C /* SUNN.otf in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7D41C0046E7009ED91C /* SUNN.otf */; };
+		79EDD7DA1C0046E7009ED91C /* frienj icons.png in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7D51C0046E7009ED91C /* frienj icons.png */; };
+		79EDD7DB1C0046E7009ED91C /* frienj logo small copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7D61C0046E7009ED91C /* frienj logo small copy.png */; };
+		79EDD7DC1C0046E7009ED91C /* DTS_Photography_Movie2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7D71C0046E7009ED91C /* DTS_Photography_Movie2.jpg */; };
+		79EDD7E71C0051FC009ED91C /* instagram.png in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7E61C0051FC009ED91C /* instagram.png */; };
+		79EDD7E91C00C12B009ED91C /* web bar.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7E81C00C12B009ED91C /* web bar.tiff */; };
+		79EDD7EB1C00C3AF009ED91C /* barra fb.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7EA1C00C3AF009ED91C /* barra fb.tiff */; };
+		79EDD7ED1C00C48A009ED91C /* fb background.png in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7EC1C00C48A009ED91C /* fb background.png */; };
+		79EDD82E1C00D3B6009ED91C /* DTS_Photography_Movie2.tif in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD82D1C00D3B6009ED91C /* DTS_Photography_Movie2.tif */; };
+		79EDD8301C00DD80009ED91C /* slider bar.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD82F1C00DD80009ED91C /* slider bar.tiff */; };
+		79EDD8341C00E159009ED91C /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD8331C00E159009ED91C /* ViewController2.swift */; };
+		79EDD8361C00E219009ED91C /* ViewControllerIns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD8351C00E219009ED91C /* ViewControllerIns.swift */; };
+		79EDD8381C00E247009ED91C /* ViewControllerFB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD8371C00E247009ED91C /* ViewControllerFB.swift */; };
+		79EDD83A1C00E252009ED91C /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD8391C00E252009ED91C /* ViewController3.swift */; };
+		79EDD83C1C00E258009ED91C /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD83B1C00E258009ED91C /* ViewController4.swift */; };
+		79EDD83E1C00E25D009ED91C /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD83D1C00E25D009ED91C /* ViewController5.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		79EDD7B81C0046D7009ED91C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 79EDD79B1C0046D6009ED91C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 79EDD7A21C0046D6009ED91C;
+			remoteInfo = "Frienj Mockup 02";
+		};
+		79EDD7C31C0046D7009ED91C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 79EDD79B1C0046D6009ED91C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 79EDD7A21C0046D6009ED91C;
+			remoteInfo = "Frienj Mockup 02";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		79EDD7A31C0046D6009ED91C /* Frienj Mockup 02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Frienj Mockup 02.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		79EDD7A61C0046D6009ED91C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		79EDD7A81C0046D6009ED91C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		79EDD7AB1C0046D6009ED91C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		79EDD7AD1C0046D6009ED91C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		79EDD7B01C0046D6009ED91C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		79EDD7B21C0046D6009ED91C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79EDD7B71C0046D7009ED91C /* Frienj Mockup 02Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Frienj Mockup 02Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		79EDD7BB1C0046D7009ED91C /* Frienj_Mockup_02Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frienj_Mockup_02Tests.swift; sourceTree = "<group>"; };
+		79EDD7BD1C0046D7009ED91C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79EDD7C21C0046D7009ED91C /* Frienj Mockup 02UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Frienj Mockup 02UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		79EDD7C61C0046D7009ED91C /* Frienj_Mockup_02UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frienj_Mockup_02UITests.swift; sourceTree = "<group>"; };
+		79EDD7C81C0046D7009ED91C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79EDD7D41C0046E7009ED91C /* SUNN.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SUNN.otf; sourceTree = "<group>"; };
+		79EDD7D51C0046E7009ED91C /* frienj icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frienj icons.png"; sourceTree = "<group>"; };
+		79EDD7D61C0046E7009ED91C /* frienj logo small copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frienj logo small copy.png"; sourceTree = "<group>"; };
+		79EDD7D71C0046E7009ED91C /* DTS_Photography_Movie2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DTS_Photography_Movie2.jpg; sourceTree = "<group>"; };
+		79EDD7E61C0051FC009ED91C /* instagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instagram.png; sourceTree = "<group>"; };
+		79EDD7E81C00C12B009ED91C /* web bar.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "web bar.tiff"; sourceTree = "<group>"; };
+		79EDD7EA1C00C3AF009ED91C /* barra fb.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "barra fb.tiff"; sourceTree = "<group>"; };
+		79EDD7EC1C00C48A009ED91C /* fb background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fb background.png"; sourceTree = "<group>"; };
+		79EDD82D1C00D3B6009ED91C /* DTS_Photography_Movie2.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = DTS_Photography_Movie2.tif; sourceTree = "<group>"; };
+		79EDD82F1C00DD80009ED91C /* slider bar.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "slider bar.tiff"; sourceTree = "<group>"; };
+		79EDD8331C00E159009ED91C /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		79EDD8351C00E219009ED91C /* ViewControllerIns.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerIns.swift; sourceTree = "<group>"; };
+		79EDD8371C00E247009ED91C /* ViewControllerFB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerFB.swift; sourceTree = "<group>"; };
+		79EDD8391C00E252009ED91C /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		79EDD83B1C00E258009ED91C /* ViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		79EDD83D1C00E25D009ED91C /* ViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		79EDD7A01C0046D6009ED91C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79EDD7B41C0046D7009ED91C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79EDD7BF1C0046D7009ED91C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		79EDD79A1C0046D6009ED91C = {
+			isa = PBXGroup;
+			children = (
+				79EDD7A51C0046D6009ED91C /* Frienj Mockup 02 */,
+				79EDD7BA1C0046D7009ED91C /* Frienj Mockup 02Tests */,
+				79EDD7C51C0046D7009ED91C /* Frienj Mockup 02UITests */,
+				79EDD7A41C0046D6009ED91C /* Products */,
+				79EDD7D41C0046E7009ED91C /* SUNN.otf */,
+				79EDD7D51C0046E7009ED91C /* frienj icons.png */,
+				79EDD7D61C0046E7009ED91C /* frienj logo small copy.png */,
+				79EDD7D71C0046E7009ED91C /* DTS_Photography_Movie2.jpg */,
+				79EDD7E61C0051FC009ED91C /* instagram.png */,
+				79EDD7E81C00C12B009ED91C /* web bar.tiff */,
+				79EDD7EA1C00C3AF009ED91C /* barra fb.tiff */,
+				79EDD7EC1C00C48A009ED91C /* fb background.png */,
+				79EDD82D1C00D3B6009ED91C /* DTS_Photography_Movie2.tif */,
+				79EDD82F1C00DD80009ED91C /* slider bar.tiff */,
+			);
+			sourceTree = "<group>";
+		};
+		79EDD7A41C0046D6009ED91C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				79EDD7A31C0046D6009ED91C /* Frienj Mockup 02.app */,
+				79EDD7B71C0046D7009ED91C /* Frienj Mockup 02Tests.xctest */,
+				79EDD7C21C0046D7009ED91C /* Frienj Mockup 02UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		79EDD7A51C0046D6009ED91C /* Frienj Mockup 02 */ = {
+			isa = PBXGroup;
+			children = (
+				79EDD7A61C0046D6009ED91C /* AppDelegate.swift */,
+				79EDD7A81C0046D6009ED91C /* ViewController.swift */,
+				79EDD7AA1C0046D6009ED91C /* Main.storyboard */,
+				79EDD8371C00E247009ED91C /* ViewControllerFB.swift */,
+				79EDD8391C00E252009ED91C /* ViewController3.swift */,
+				79EDD83B1C00E258009ED91C /* ViewController4.swift */,
+				79EDD83D1C00E25D009ED91C /* ViewController5.swift */,
+				79EDD8351C00E219009ED91C /* ViewControllerIns.swift */,
+				79EDD8331C00E159009ED91C /* ViewController2.swift */,
+				79EDD7AD1C0046D6009ED91C /* Assets.xcassets */,
+				79EDD7AF1C0046D6009ED91C /* LaunchScreen.storyboard */,
+				79EDD7B21C0046D6009ED91C /* Info.plist */,
+			);
+			path = "Frienj Mockup 02";
+			sourceTree = "<group>";
+		};
+		79EDD7BA1C0046D7009ED91C /* Frienj Mockup 02Tests */ = {
+			isa = PBXGroup;
+			children = (
+				79EDD7BB1C0046D7009ED91C /* Frienj_Mockup_02Tests.swift */,
+				79EDD7BD1C0046D7009ED91C /* Info.plist */,
+			);
+			path = "Frienj Mockup 02Tests";
+			sourceTree = "<group>";
+		};
+		79EDD7C51C0046D7009ED91C /* Frienj Mockup 02UITests */ = {
+			isa = PBXGroup;
+			children = (
+				79EDD7C61C0046D7009ED91C /* Frienj_Mockup_02UITests.swift */,
+				79EDD7C81C0046D7009ED91C /* Info.plist */,
+			);
+			path = "Frienj Mockup 02UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		79EDD7A21C0046D6009ED91C /* Frienj Mockup 02 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79EDD7CB1C0046D7009ED91C /* Build configuration list for PBXNativeTarget "Frienj Mockup 02" */;
+			buildPhases = (
+				79EDD79F1C0046D6009ED91C /* Sources */,
+				79EDD7A01C0046D6009ED91C /* Frameworks */,
+				79EDD7A11C0046D6009ED91C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Frienj Mockup 02";
+			productName = "Frienj Mockup 02";
+			productReference = 79EDD7A31C0046D6009ED91C /* Frienj Mockup 02.app */;
+			productType = "com.apple.product-type.application";
+		};
+		79EDD7B61C0046D7009ED91C /* Frienj Mockup 02Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79EDD7CE1C0046D7009ED91C /* Build configuration list for PBXNativeTarget "Frienj Mockup 02Tests" */;
+			buildPhases = (
+				79EDD7B31C0046D7009ED91C /* Sources */,
+				79EDD7B41C0046D7009ED91C /* Frameworks */,
+				79EDD7B51C0046D7009ED91C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				79EDD7B91C0046D7009ED91C /* PBXTargetDependency */,
+			);
+			name = "Frienj Mockup 02Tests";
+			productName = "Frienj Mockup 02Tests";
+			productReference = 79EDD7B71C0046D7009ED91C /* Frienj Mockup 02Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		79EDD7C11C0046D7009ED91C /* Frienj Mockup 02UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79EDD7D11C0046D7009ED91C /* Build configuration list for PBXNativeTarget "Frienj Mockup 02UITests" */;
+			buildPhases = (
+				79EDD7BE1C0046D7009ED91C /* Sources */,
+				79EDD7BF1C0046D7009ED91C /* Frameworks */,
+				79EDD7C01C0046D7009ED91C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				79EDD7C41C0046D7009ED91C /* PBXTargetDependency */,
+			);
+			name = "Frienj Mockup 02UITests";
+			productName = "Frienj Mockup 02UITests";
+			productReference = 79EDD7C21C0046D7009ED91C /* Frienj Mockup 02UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		79EDD79B1C0046D6009ED91C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "Marco Antonio Pina Sabido";
+				TargetAttributes = {
+					79EDD7A21C0046D6009ED91C = {
+						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 45SX5HX9DL;
+					};
+					79EDD7B61C0046D7009ED91C = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = 79EDD7A21C0046D6009ED91C;
+					};
+					79EDD7C11C0046D7009ED91C = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = 79EDD7A21C0046D6009ED91C;
+					};
+				};
+			};
+			buildConfigurationList = 79EDD79E1C0046D6009ED91C /* Build configuration list for PBXProject "Frienj Mockup 02" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 79EDD79A1C0046D6009ED91C;
+			productRefGroup = 79EDD7A41C0046D6009ED91C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				79EDD7A21C0046D6009ED91C /* Frienj Mockup 02 */,
+				79EDD7B61C0046D7009ED91C /* Frienj Mockup 02Tests */,
+				79EDD7C11C0046D7009ED91C /* Frienj Mockup 02UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		79EDD7A11C0046D6009ED91C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79EDD7ED1C00C48A009ED91C /* fb background.png in Resources */,
+				79EDD7DC1C0046E7009ED91C /* DTS_Photography_Movie2.jpg in Resources */,
+				79EDD8301C00DD80009ED91C /* slider bar.tiff in Resources */,
+				79EDD7B11C0046D6009ED91C /* LaunchScreen.storyboard in Resources */,
+				79EDD7E71C0051FC009ED91C /* instagram.png in Resources */,
+				79EDD7E91C00C12B009ED91C /* web bar.tiff in Resources */,
+				79EDD7AE1C0046D6009ED91C /* Assets.xcassets in Resources */,
+				79EDD7AC1C0046D6009ED91C /* Main.storyboard in Resources */,
+				79EDD7DA1C0046E7009ED91C /* frienj icons.png in Resources */,
+				79EDD7DB1C0046E7009ED91C /* frienj logo small copy.png in Resources */,
+				79EDD7D91C0046E7009ED91C /* SUNN.otf in Resources */,
+				79EDD7EB1C00C3AF009ED91C /* barra fb.tiff in Resources */,
+				79EDD82E1C00D3B6009ED91C /* DTS_Photography_Movie2.tif in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79EDD7B51C0046D7009ED91C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79EDD7C01C0046D7009ED91C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		79EDD79F1C0046D6009ED91C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79EDD7A91C0046D6009ED91C /* ViewController.swift in Sources */,
+				79EDD83C1C00E258009ED91C /* ViewController4.swift in Sources */,
+				79EDD8381C00E247009ED91C /* ViewControllerFB.swift in Sources */,
+				79EDD83A1C00E252009ED91C /* ViewController3.swift in Sources */,
+				79EDD83E1C00E25D009ED91C /* ViewController5.swift in Sources */,
+				79EDD7A71C0046D6009ED91C /* AppDelegate.swift in Sources */,
+				79EDD8341C00E159009ED91C /* ViewController2.swift in Sources */,
+				79EDD8361C00E219009ED91C /* ViewControllerIns.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79EDD7B31C0046D7009ED91C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79EDD7BC1C0046D7009ED91C /* Frienj_Mockup_02Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		79EDD7BE1C0046D7009ED91C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79EDD7C71C0046D7009ED91C /* Frienj_Mockup_02UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		79EDD7B91C0046D7009ED91C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 79EDD7A21C0046D6009ED91C /* Frienj Mockup 02 */;
+			targetProxy = 79EDD7B81C0046D7009ED91C /* PBXContainerItemProxy */;
+		};
+		79EDD7C41C0046D7009ED91C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 79EDD7A21C0046D6009ED91C /* Frienj Mockup 02 */;
+			targetProxy = 79EDD7C31C0046D7009ED91C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		79EDD7AA1C0046D6009ED91C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79EDD7AB1C0046D6009ED91C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		79EDD7AF1C0046D6009ED91C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79EDD7B01C0046D6009ED91C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		79EDD7C91C0046D7009ED91C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		79EDD7CA1C0046D7009ED91C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		79EDD7CC1C0046D7009ED91C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Frienj Mockup 02/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Frienj-Mockup-02";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		79EDD7CD1C0046D7009ED91C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Frienj Mockup 02/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Frienj-Mockup-02";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+		79EDD7CF1C0046D7009ED91C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Frienj Mockup 02Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Frienj-Mockup-02Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Frienj Mockup 02.app/Frienj Mockup 02";
+			};
+			name = Debug;
+		};
+		79EDD7D01C0046D7009ED91C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Frienj Mockup 02Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Frienj-Mockup-02Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Frienj Mockup 02.app/Frienj Mockup 02";
+			};
+			name = Release;
+		};
+		79EDD7D21C0046D7009ED91C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Frienj Mockup 02UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Frienj-Mockup-02UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Frienj Mockup 02";
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		79EDD7D31C0046D7009ED91C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Frienj Mockup 02UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Frienj-Mockup-02UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Frienj Mockup 02";
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		79EDD79E1C0046D6009ED91C /* Build configuration list for PBXProject "Frienj Mockup 02" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79EDD7C91C0046D7009ED91C /* Debug */,
+				79EDD7CA1C0046D7009ED91C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79EDD7CB1C0046D7009ED91C /* Build configuration list for PBXNativeTarget "Frienj Mockup 02" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79EDD7CC1C0046D7009ED91C /* Debug */,
+				79EDD7CD1C0046D7009ED91C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79EDD7CE1C0046D7009ED91C /* Build configuration list for PBXNativeTarget "Frienj Mockup 02Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79EDD7CF1C0046D7009ED91C /* Debug */,
+				79EDD7D01C0046D7009ED91C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79EDD7D11C0046D7009ED91C /* Build configuration list for PBXNativeTarget "Frienj Mockup 02UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79EDD7D21C0046D7009ED91C /* Debug */,
+				79EDD7D31C0046D7009ED91C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 79EDD79B1C0046D6009ED91C /* Project object */;
+}
