@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		79CC590B1C057B5200D03D39 /* step 1.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79CC590A1C057B5200D03D39 /* step 1.tiff */; };
 		79EDD7A71C0046D6009ED91C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7A61C0046D6009ED91C /* AppDelegate.swift */; };
 		79EDD7A91C0046D6009ED91C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7A81C0046D6009ED91C /* ViewController.swift */; };
 		79EDD7AC1C0046D6009ED91C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7AA1C0046D6009ED91C /* Main.storyboard */; };
@@ -51,7 +50,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		79CC590A1C057B5200D03D39 /* step 1.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "step 1.tiff"; sourceTree = "<group>"; };
 		79EDD7A31C0046D6009ED91C /* Frienj Mockup 02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Frienj Mockup 02.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79EDD7A61C0046D6009ED91C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79EDD7A81C0046D6009ED91C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -125,7 +123,6 @@
 				79EDD7EC1C00C48A009ED91C /* fb background.png */,
 				79EDD82D1C00D3B6009ED91C /* DTS_Photography_Movie2.tif */,
 				79EDD82F1C00DD80009ED91C /* slider bar.tiff */,
-				79CC590A1C057B5200D03D39 /* step 1.tiff */,
 			);
 			sourceTree = "<group>";
 		};
@@ -282,7 +279,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				79EDD7ED1C00C48A009ED91C /* fb background.png in Resources */,
-				79CC590B1C057B5200D03D39 /* step 1.tiff in Resources */,
 				79EDD7DC1C0046E7009ED91C /* DTS_Photography_Movie2.jpg in Resources */,
 				79EDD8301C00DD80009ED91C /* slider bar.tiff in Resources */,
 				79EDD7B11C0046D6009ED91C /* LaunchScreen.storyboard in Resources */,
