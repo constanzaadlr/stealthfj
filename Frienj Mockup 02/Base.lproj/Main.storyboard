@@ -64,7 +64,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cmR-ot-AFQ">
-                                <rect key="frame" x="122" y="449" width="171" height="33"/>
+                                <rect key="frame" x="122" y="457" width="171" height="33"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.98431372549999996" green="0.80784313730000001" blue="0.52549019610000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -92,8 +92,8 @@
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="300" id="eOh-8E-dCQ"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Travel the world With one another" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y5G-Rc-oVd">
-                                <rect key="frame" x="151" y="373" width="114" height="65"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Travel the world With one another" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y5G-Rc-oVd">
+                                <rect key="frame" x="150" y="373" width="114" height="65"/>
                                 <animations/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="114" id="1xd-ay-MLu"/>
@@ -118,8 +118,8 @@
                                 <color key="textColor" red="0.97254901959999995" green="0.62352941179999999" blue="0.08235294118" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="loa-3q-4QA">
-                                <rect key="frame" x="120" y="534" width="177" height="70"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="loa-3q-4QA">
+                                <rect key="frame" x="119" y="562" width="177" height="70"/>
                                 <animations/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="RjT-AU-Yu6"/>
@@ -132,8 +132,8 @@ Service and privacy policy</string>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="obJ-EZ-u4G">
-                                <rect key="frame" x="123" y="493" width="171" height="33"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="obJ-EZ-u4G">
+                                <rect key="frame" x="122" y="507" width="171" height="33"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.98431372549999996" green="0.80784313730000001" blue="0.52549019610000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -153,9 +153,9 @@ Service and privacy policy</string>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="obJ-EZ-u4G" firstAttribute="top" secondItem="cmR-ot-AFQ" secondAttribute="bottom" constant="11" id="BZ2-MZ-R0V"/>
+                            <constraint firstItem="obJ-EZ-u4G" firstAttribute="top" secondItem="cmR-ot-AFQ" secondAttribute="bottom" constant="17" id="BZ2-MZ-R0V"/>
                             <constraint firstItem="y5G-Rc-oVd" firstAttribute="top" secondItem="b4U-qf-Sju" secondAttribute="bottom" constant="19" id="BkR-J5-Ci4"/>
-                            <constraint firstItem="cmR-ot-AFQ" firstAttribute="top" secondItem="y5G-Rc-oVd" secondAttribute="bottom" constant="11" id="Bxw-9g-9Lo"/>
+                            <constraint firstItem="cmR-ot-AFQ" firstAttribute="top" secondItem="y5G-Rc-oVd" secondAttribute="bottom" constant="19" id="Bxw-9g-9Lo"/>
                             <constraint firstItem="b4U-qf-Sju" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="GOG-Zu-9jX"/>
                             <constraint firstItem="b4U-qf-Sju" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="34" id="Ptr-bQ-AQi"/>
                             <constraint firstItem="y5G-Rc-oVd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cY4-gv-aeT"/>
@@ -163,8 +163,8 @@ Service and privacy policy</string>
                             <constraint firstItem="y5G-Rc-oVd" firstAttribute="top" secondItem="b4U-qf-Sju" secondAttribute="bottom" constant="19" id="eUH-Hn-eCk"/>
                             <constraint firstItem="loa-3q-4QA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="egm-Y5-r1z"/>
                             <constraint firstItem="cmR-ot-AFQ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="f9y-a6-Azx"/>
-                            <constraint firstItem="loa-3q-4QA" firstAttribute="top" secondItem="obJ-EZ-u4G" secondAttribute="bottom" constant="8" id="mQa-Ie-wXz"/>
-                            <constraint firstItem="cmR-ot-AFQ" firstAttribute="top" secondItem="y5G-Rc-oVd" secondAttribute="bottom" constant="11" id="nuz-OD-Bxj"/>
+                            <constraint firstItem="loa-3q-4QA" firstAttribute="top" secondItem="obJ-EZ-u4G" secondAttribute="bottom" constant="22" id="mQa-Ie-wXz"/>
+                            <constraint firstItem="cmR-ot-AFQ" firstAttribute="top" secondItem="y5G-Rc-oVd" secondAttribute="bottom" constant="19" id="nuz-OD-Bxj"/>
                             <constraint firstItem="obJ-EZ-u4G" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="nyL-sb-66J"/>
                             <constraint firstItem="GX0-1W-amo" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="111" id="weq-dd-A8o"/>
                         </constraints>
@@ -191,15 +191,6 @@ Service and privacy policy</string>
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="instagram.png" translatesAutoresizingMaskIntoConstraints="NO" id="JBc-XB-yK0">
-                                <rect key="frame" x="38" y="259" width="339" height="217"/>
-                                <animations/>
-                                <constraints>
-                                    <constraint firstAttribute="width" secondItem="JBc-XB-yK0" secondAttribute="height" multiplier="339:217" id="WBC-T1-ek5"/>
-                                    <constraint firstAttribute="height" constant="217" id="ucs-Vs-qve"/>
-                                    <constraint firstAttribute="width" constant="339" id="ujU-Lk-zE0"/>
-                                </constraints>
-                            </imageView>
                             <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RGx-XB-fOJ">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
                                 <animations/>
@@ -256,6 +247,15 @@ Service and privacy policy</string>
                                     <segue destination="Cux-yg-bFr" kind="show" id="9Sv-b7-bnW"/>
                                 </connections>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="instagram.png" translatesAutoresizingMaskIntoConstraints="NO" id="JBc-XB-yK0">
+                                <rect key="frame" x="38" y="255" width="339" height="217"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="JBc-XB-yK0" secondAttribute="height" multiplier="339:217" id="WBC-T1-ek5"/>
+                                    <constraint firstAttribute="height" constant="217" id="ucs-Vs-qve"/>
+                                    <constraint firstAttribute="width" constant="339" id="ujU-Lk-zE0"/>
+                                </constraints>
+                            </imageView>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -321,17 +321,6 @@ Service and privacy policy</string>
                                 <color key="textColor" red="0.97254901959999995" green="0.49803921569999998" blue="0.08235294118" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This is for your safety, as we won't allow you acces if you don't have at least 150 fb friends. Let's keep the fakes away." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OIN-za-Lmj">
-                                <rect key="frame" x="15" y="422" width="385" height="104"/>
-                                <animations/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="385" id="CGa-ek-qiO"/>
-                                    <constraint firstAttribute="height" constant="104" id="dAA-fg-aQr"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" name="SUNN" family="SUNN" pointSize="30"/>
-                                <color key="textColor" red="0.97254901959999995" green="0.49803921569999998" blue="0.08235294118" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Frienj" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XiJ-qM-XuZ">
                                 <rect key="frame" x="113" y="73" width="188" height="123"/>
                                 <animations/>
@@ -343,8 +332,19 @@ Service and privacy policy</string>
                                 <color key="textColor" red="0.97254901959999995" green="0.62352941179999999" blue="0.08235294118" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This is for your safety, as we won't allow you acces if you don't have at least 150 fb friends. Let's keep the fakes away." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OIN-za-Lmj">
+                                <rect key="frame" x="15" y="430" width="385" height="104"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="385" id="CGa-ek-qiO"/>
+                                    <constraint firstAttribute="height" constant="104" id="dAA-fg-aQr"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="SUNN" family="SUNN" pointSize="30"/>
+                                <color key="textColor" red="0.97254901959999995" green="0.49803921569999998" blue="0.08235294118" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5eL-kd-4vb">
-                                <rect key="frame" x="122" y="539" width="171" height="33"/>
+                                <rect key="frame" x="122" y="555" width="171" height="33"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.98431372549999996" green="0.80784313730000001" blue="0.52549019610000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -367,14 +367,14 @@ Service and privacy policy</string>
                             <constraint firstItem="PJk-Fm-XGr" firstAttribute="centerX" secondItem="qFJ-c8-as9" secondAttribute="centerX" id="344-5e-E64"/>
                             <constraint firstItem="V6P-JC-eCA" firstAttribute="centerX" secondItem="qFJ-c8-as9" secondAttribute="centerX" id="MqL-c3-9KK"/>
                             <constraint firstItem="5eL-kd-4vb" firstAttribute="centerX" secondItem="qFJ-c8-as9" secondAttribute="centerX" id="TNV-8E-15l"/>
-                            <constraint firstItem="OIN-za-Lmj" firstAttribute="top" secondItem="V6P-JC-eCA" secondAttribute="bottom" constant="8" id="VV4-vu-Tak"/>
+                            <constraint firstItem="OIN-za-Lmj" firstAttribute="top" secondItem="V6P-JC-eCA" secondAttribute="bottom" constant="16" id="VV4-vu-Tak"/>
                             <constraint firstAttribute="trailingMargin" secondItem="XSv-zk-TJk" secondAttribute="trailing" constant="-113" id="Z9p-CC-7J0"/>
                             <constraint firstItem="XSv-zk-TJk" firstAttribute="top" secondItem="qaJ-cC-9LZ" secondAttribute="bottom" constant="53" id="cV4-WE-vit"/>
-                            <constraint firstItem="OIN-za-Lmj" firstAttribute="top" secondItem="XSv-zk-TJk" secondAttribute="bottom" constant="69" id="e7M-j9-316"/>
+                            <constraint firstItem="OIN-za-Lmj" firstAttribute="top" secondItem="XSv-zk-TJk" secondAttribute="bottom" constant="77" id="e7M-j9-316"/>
                             <constraint firstItem="V6P-JC-eCA" firstAttribute="top" secondItem="PJk-Fm-XGr" secondAttribute="bottom" constant="21" id="hFI-sd-mf1"/>
                             <constraint firstItem="XiJ-qM-XuZ" firstAttribute="top" secondItem="qaJ-cC-9LZ" secondAttribute="bottom" constant="53" id="jkZ-md-Ulq"/>
                             <constraint firstItem="OIN-za-Lmj" firstAttribute="centerX" secondItem="qFJ-c8-as9" secondAttribute="centerX" id="oTc-Iy-6tM"/>
-                            <constraint firstItem="5eL-kd-4vb" firstAttribute="top" secondItem="OIN-za-Lmj" secondAttribute="bottom" constant="13" id="pnX-r5-ZTi"/>
+                            <constraint firstItem="5eL-kd-4vb" firstAttribute="top" secondItem="OIN-za-Lmj" secondAttribute="bottom" constant="21" id="pnX-r5-ZTi"/>
                             <constraint firstItem="PJk-Fm-XGr" firstAttribute="top" secondItem="XiJ-qM-XuZ" secondAttribute="bottom" constant="28" id="pww-os-BED"/>
                             <constraint firstItem="XSv-zk-TJk" firstAttribute="leading" secondItem="qFJ-c8-as9" secondAttribute="leadingMargin" constant="-113" id="sch-CE-T5O"/>
                         </constraints>
@@ -499,8 +499,11 @@ Service and privacy policy</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" alpha="0.34999999403953552" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="DTS_Photography_Movie2.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Pkn-PC-9F3">
-                                <rect key="frame" x="-93" y="73" width="600" height="280"/>
+                                <rect key="frame" x="0.0" y="73" width="414" height="280"/>
                                 <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="280" id="LD5-gw-mXR"/>
+                                </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hi Annalise!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VN0-UM-Sit">
                                 <rect key="frame" x="77" y="281" width="260" height="72"/>
@@ -617,24 +620,23 @@ Service and privacy policy</string>
                             <constraint firstItem="h0y-3B-PLQ" firstAttribute="centerX" secondItem="Iyd-uR-eBz" secondAttribute="centerX" id="7St-GN-bRc"/>
                             <constraint firstItem="qSS-Al-N2D" firstAttribute="top" secondItem="kU8-4z-M3I" secondAttribute="bottom" id="8Sf-GA-CZT"/>
                             <constraint firstItem="VN0-UM-Sit" firstAttribute="centerX" secondItem="Iyd-uR-eBz" secondAttribute="centerX" id="8lc-De-Fd8"/>
-                            <constraint firstItem="Pkn-PC-9F3" firstAttribute="leading" secondItem="Iyd-uR-eBz" secondAttribute="leadingMargin" constant="-113" id="8uu-Gu-MHf"/>
+                            <constraint firstItem="ael-m9-5r5" firstAttribute="top" secondItem="VN0-UM-Sit" secondAttribute="bottom" constant="46" id="DYn-6M-fKM"/>
                             <constraint firstItem="TL8-6y-eZP" firstAttribute="top" secondItem="ael-m9-5r5" secondAttribute="bottom" constant="8" id="GSt-xG-q2M"/>
                             <constraint firstItem="ew4-gD-HLe" firstAttribute="leading" secondItem="s6x-uQ-fbx" secondAttribute="trailing" constant="8" id="GuC-bS-BUT"/>
                             <constraint firstItem="oN2-XN-MKC" firstAttribute="centerX" secondItem="Iyd-uR-eBz" secondAttribute="centerX" id="L9P-q6-TEa"/>
+                            <constraint firstItem="Pkn-PC-9F3" firstAttribute="leading" secondItem="Iyd-uR-eBz" secondAttribute="leading" id="Swx-LL-ib3"/>
                             <constraint firstItem="VN0-UM-Sit" firstAttribute="top" secondItem="qSS-Al-N2D" secondAttribute="bottom" constant="207" id="Whk-Hy-lTI"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="Pkn-PC-9F3" secondAttribute="trailing" constant="-113" id="ZyJ-mD-Dxg"/>
                             <constraint firstAttribute="trailingMargin" secondItem="ew4-gD-HLe" secondAttribute="trailing" constant="101" id="aWj-hI-JKl"/>
                             <constraint firstItem="ael-m9-5r5" firstAttribute="centerX" secondItem="Iyd-uR-eBz" secondAttribute="centerX" id="aXS-1Q-x6L"/>
                             <constraint firstItem="s6x-uQ-fbx" firstAttribute="top" secondItem="h0y-3B-PLQ" secondAttribute="bottom" constant="42" id="bF7-px-r19"/>
                             <constraint firstItem="oN2-XN-MKC" firstAttribute="top" secondItem="TL8-6y-eZP" secondAttribute="bottom" constant="8" id="cx1-Rq-Chg"/>
-                            <constraint firstItem="ael-m9-5r5" firstAttribute="top" secondItem="VN0-UM-Sit" secondAttribute="bottom" constant="46" id="dcE-Lz-FZJ"/>
                             <constraint firstItem="s6x-uQ-fbx" firstAttribute="leading" secondItem="Iyd-uR-eBz" secondAttribute="leadingMargin" constant="92" id="flU-Wd-IGY"/>
                             <constraint firstItem="TL8-6y-eZP" firstAttribute="centerX" secondItem="Iyd-uR-eBz" secondAttribute="centerX" id="gEo-xp-Qvi"/>
                             <constraint firstItem="Pkn-PC-9F3" firstAttribute="top" secondItem="kU8-4z-M3I" secondAttribute="bottom" constant="53" id="h3g-me-6yT"/>
                             <constraint firstItem="qSS-Al-N2D" firstAttribute="centerX" secondItem="Iyd-uR-eBz" secondAttribute="centerX" id="hJw-r0-3Xx"/>
                             <constraint firstItem="h0y-3B-PLQ" firstAttribute="top" secondItem="oN2-XN-MKC" secondAttribute="bottom" constant="8" id="kJQ-pZ-f1x"/>
-                            <constraint firstItem="vG5-RI-ZLL" firstAttribute="top" secondItem="Pkn-PC-9F3" secondAttribute="bottom" constant="383" id="p2S-8z-9Pp"/>
                             <constraint firstItem="ew4-gD-HLe" firstAttribute="top" secondItem="h0y-3B-PLQ" secondAttribute="bottom" constant="42" id="q3c-7v-Lul"/>
+                            <constraint firstAttribute="trailing" secondItem="Pkn-PC-9F3" secondAttribute="trailing" id="r53-17-eIS"/>
                         </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
@@ -946,8 +948,8 @@ Service and privacy policy</string>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Annalise: 25 Los Angeles, CA 17 Countries 50 Cities" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jn7-5w-gTd">
-                                <rect key="frame" x="122" y="409" width="186" height="193"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Annalise: 25 Los Angeles, CA 17 Countries 50 Cities" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jn7-5w-gTd">
+                                <rect key="frame" x="114" y="409" width="186" height="193"/>
                                 <animations/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="186" id="6VM-Hy-MoH"/>
@@ -1139,6 +1141,6 @@ Service and privacy policy</string>
     <inferredMetricsTieBreakers>
         <segue reference="Eco-sP-rkX"/>
         <segue reference="Asn-Vo-pyH"/>
-        <segue reference="Jsa-2O-5un"/>
+        <segue reference="h1e-rF-4n9"/>
     </inferredMetricsTieBreakers>
 </document>
