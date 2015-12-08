@@ -14,7 +14,6 @@ class ViewController3: UIViewController {
         super.viewDidLoad()
         
         profileButton.layer.cornerRadius = 7
-        settingsButton.layer.cornerRadius = 7
         inviteFriendsButton.layer.cornerRadius = 7
         feedbackButton.layer.cornerRadius = 7
         
@@ -28,7 +27,6 @@ class ViewController3: UIViewController {
     }
     
     @IBOutlet var profileButton: UIButton!
-    @IBOutlet var settingsButton: UIButton!
     @IBOutlet var inviteFriendsButton: UIButton!
     @IBOutlet var feedbackButton: UIButton!
 
