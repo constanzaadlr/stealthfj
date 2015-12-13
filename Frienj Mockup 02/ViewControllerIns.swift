@@ -24,6 +24,11 @@ class ViewControllerIns: UIViewController {
     }
     
     @IBOutlet var logInInstagramButton: UIButton!
+    
+    //hides the keyboard when tapping outside
+    override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?) {
+        self.view.endEditing(true)
+    }
 
     /*
     // MARK: - Navigation
