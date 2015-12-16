@@ -8,14 +8,16 @@
 
 import UIKit
 
-class ViewControllerFB: UIViewController {
+class ViewControllerFB: UIViewController, UITextFieldDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
         logInFacebookButton.layer.cornerRadius = 7
+        
+        self.fbPasswordTextField.delegate = self
+        
 
-        // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
@@ -24,6 +26,7 @@ class ViewControllerFB: UIViewController {
     }
     
     @IBOutlet var logInFacebookButton: UIButton!
+    @IBOutlet var fbPasswordTextField: UITextField!
     
     
     //hides the keyboard when tapping outside
@@ -31,6 +34,15 @@ class ViewControllerFB: UIViewController {
         self.view.endEditing(true)
     }
 
+    
+    func textFieldShouldReturn(textField: UITextField) -> Bool {
+        
+        performSegueWithIdentifier("fbLogIn", sender: nil)
+        
+        return true
+    }
+    
+    
     /*
     // MARK: - Navigation
 

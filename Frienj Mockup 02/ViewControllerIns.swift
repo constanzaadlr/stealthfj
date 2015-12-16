@@ -8,10 +8,16 @@
 
 import UIKit
 
-class ViewControllerIns: UIViewController {
+class ViewControllerIns: UIViewController, UITextFieldDelegate {
 
+
+    @IBOutlet var passwordTextField: UITextField!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        self.passwordTextField.delegate = self
         
         logInInstagramButton.layer.cornerRadius = 7
 
@@ -30,6 +36,16 @@ class ViewControllerIns: UIViewController {
         self.view.endEditing(true)
     }
 
+    
+    func textFieldShouldReturn(textField: UITextField) -> Bool {
+        
+        performSegueWithIdentifier("insLogIn", sender: nil)
+        
+        return true
+    }
+
+    
+    
     /*
     // MARK: - Navigation
 
