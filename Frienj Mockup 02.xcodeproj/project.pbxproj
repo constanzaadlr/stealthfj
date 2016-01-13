@@ -10,6 +10,7 @@
 		790C004F1C1E3E9C00ECB0F0 /* TimelineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 790C004E1C1E3E9C00ECB0F0 /* TimelineViewController.swift */; };
 		7932DBF71C1FD17D007BE545 /* sidi bou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7932DBF61C1FD17D007BE545 /* sidi bou.jpg */; };
 		79BFC62A1C168E43004BDECD /* timeline.png in Resources */ = {isa = PBXBuildFile; fileRef = 79BFC6291C168E43004BDECD /* timeline.png */; };
+		79CB98001C460D02009E73E6 /* DiscoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79CB97FF1C460D02009E73E6 /* DiscoverViewController.swift */; };
 		79EDD7A71C0046D6009ED91C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7A61C0046D6009ED91C /* AppDelegate.swift */; };
 		79EDD7A91C0046D6009ED91C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EDD7A81C0046D6009ED91C /* ViewController.swift */; };
 		79EDD7AC1C0046D6009ED91C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79EDD7AA1C0046D6009ED91C /* Main.storyboard */; };
@@ -56,6 +57,7 @@
 		790C004E1C1E3E9C00ECB0F0 /* TimelineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineViewController.swift; sourceTree = "<group>"; };
 		7932DBF61C1FD17D007BE545 /* sidi bou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sidi bou.jpg"; sourceTree = "<group>"; };
 		79BFC6291C168E43004BDECD /* timeline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = timeline.png; sourceTree = "<group>"; };
+		79CB97FF1C460D02009E73E6 /* DiscoverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscoverViewController.swift; sourceTree = "<group>"; };
 		79EDD7A31C0046D6009ED91C /* Frienj Mockup 02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Frienj Mockup 02.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79EDD7A61C0046D6009ED91C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79EDD7A81C0046D6009ED91C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				79EDD7A61C0046D6009ED91C /* AppDelegate.swift */,
 				79EDD7A81C0046D6009ED91C /* ViewController.swift */,
 				79EDD7AA1C0046D6009ED91C /* Main.storyboard */,
+				79CB97FF1C460D02009E73E6 /* DiscoverViewController.swift */,
 				790C004E1C1E3E9C00ECB0F0 /* TimelineViewController.swift */,
 				79EDD8371C00E247009ED91C /* ViewControllerFB.swift */,
 				79EDD8391C00E252009ED91C /* ViewController3.swift */,
@@ -335,6 +338,7 @@
 				79EDD7A71C0046D6009ED91C /* AppDelegate.swift in Sources */,
 				79EDD8341C00E159009ED91C /* ViewController2.swift in Sources */,
 				79EDD8361C00E219009ED91C /* ViewControllerIns.swift in Sources */,
+				79CB98001C460D02009E73E6 /* DiscoverViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
