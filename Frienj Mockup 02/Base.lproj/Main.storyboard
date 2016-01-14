@@ -1094,9 +1094,6 @@ Service and privacy policy</string>
                             <constraint firstItem="kDC-H1-lIX" firstAttribute="top" secondItem="REf-M0-EhW" secondAttribute="bottom" constant="56" id="z1K-u3-AMh"/>
                             <constraint firstItem="qIN-nz-oTr" firstAttribute="top" secondItem="cqq-4L-jBR" secondAttribute="bottom" constant="8" id="zFB-WA-2kh"/>
                         </constraints>
-                        <connections>
-                            <outletCollection property="gestureRecognizers" destination="AbN-tS-b79" appends="YES" id="TEo-0M-paW"/>
-                        </connections>
                     </view>
                     <tabBarItem key="tabBarItem" title="Settings" image="Settings Filled" id="u4I-AK-hA0"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
@@ -1108,11 +1105,6 @@ Service and privacy policy</string>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6du-nB-9A7" userLabel="First Responder" sceneMemberID="firstResponder"/>
-                <swipeGestureRecognizer direction="right" id="AbN-tS-b79">
-                    <connections>
-                        <segue destination="Bp4-ST-JGH" kind="show" id="Asn-Vo-pyH"/>
-                    </connections>
-                </swipeGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="2620" y="1851"/>
         </scene>
@@ -1420,6 +1412,5 @@ Service and privacy policy</string>
         <segue reference="Dbq-4a-9gW"/>
         <segue reference="Eco-sP-rkX"/>
         <segue reference="Jsa-2O-5un"/>
-        <segue reference="Asn-Vo-pyH"/>
     </inferredMetricsTieBreakers>
 </document>
